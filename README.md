@@ -1,3 +1,5 @@
+# Important
+This fork has @klaveness/cypress-configuration removed from the package.json dependencies, you need to install it from [here](https://github.com/Klaveness-Digital/cypress-configuration) manually since there was an issue that prevented this repo from being installed using npm.
 # cypress-cucumber-preprocessor
 
 This preprocessor aims to provide a developer experience and behavior similar to that of [Cucumber](https://cucumber.io/), to Cypress.
